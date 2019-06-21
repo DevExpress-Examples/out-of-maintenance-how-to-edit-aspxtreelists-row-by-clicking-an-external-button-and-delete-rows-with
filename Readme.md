@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 #  How to edit ASPxTreeList's row by clicking an external button and delete rows with a custom confirmation popup
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2938/)**
+<!-- run online end -->
 
 
 <p>This example shows how to insert a new row in ASPxTreeList control by clicking an external button. Also it demonstrates the same way for updating control's rows.<br />
